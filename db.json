@@ -1,0 +1,74 @@
+{
+  "bookings": [
+    {
+      "id": 1,
+      "passengerName": "Maria Santos",
+      "email": "maria.santos@email.com",
+      "phone": "+63 912 345 6789",
+      "route": "Manila → Batangas",
+      "departureDate": "2026-05-25",
+      "departureTime": "06:00",
+      "seatNumber": "12A",
+      "ticketType": "Economy",
+      "status": "Confirmed",
+      "fare": 250,
+      "createdAt": "2026-05-19T08:00:00Z"
+    },
+    {
+      "id": 2,
+      "passengerName": "Jose Reyes",
+      "email": "jose.reyes@email.com",
+      "phone": "+63 917 234 5678",
+      "route": "Batangas → Manila",
+      "departureDate": "2026-05-26",
+      "departureTime": "08:30",
+      "seatNumber": "5B",
+      "ticketType": "Business",
+      "status": "Pending",
+      "fare": 450,
+      "createdAt": "2026-05-19T09:00:00Z"
+    },
+    {
+      "id": 3,
+      "passengerName": "Ana Cruz",
+      "email": "ana.cruz@email.com",
+      "phone": "+63 920 111 2222",
+      "route": "Manila → Lipa City",
+      "departureDate": "2026-05-24",
+      "departureTime": "14:00",
+      "seatNumber": "3C",
+      "ticketType": "Economy",
+      "status": "Cancelled",
+      "fare": 180,
+      "createdAt": "2026-05-18T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "passengerName": "Carlos Mendoza",
+      "email": "carlos.m@email.com",
+      "phone": "+63 908 777 8888",
+      "route": "Lipa City → Manila",
+      "departureDate": "2026-05-28",
+      "departureTime": "10:00",
+      "seatNumber": "8D",
+      "ticketType": "Business",
+      "status": "Confirmed",
+      "fare": 500,
+      "createdAt": "2026-05-19T11:00:00Z"
+    },
+    {
+      "id": 5,
+      "passengerName": "Elena Villanueva",
+      "email": "elena.v@email.com",
+      "phone": "+63 915 999 0000",
+      "route": "Manila → Batangas",
+      "departureDate": "2026-05-30",
+      "departureTime": "16:30",
+      "seatNumber": "20F",
+      "ticketType": "Economy",
+      "status": "Confirmed",
+      "fare": 250,
+      "createdAt": "2026-05-19T12:00:00Z"
+    }
+  ]
+}
